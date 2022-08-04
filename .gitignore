@@ -1,0 +1,10 @@
+examples
+soap_opera
+.DS_Store
+venv
+__pycache__
+saga-pattern
+src/notes.rb
+src/context.rb
+report_example.json
+README.pdf
